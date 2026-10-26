@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs
+.venv/
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Data and outputs
+/data/
+/output/
+*.xls
+*.xlsx
+*.csv
+*.pkl
+*.keras
+
+# OS files
+.DS_Store
